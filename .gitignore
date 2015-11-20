@@ -25,6 +25,10 @@ local.properties
 # Platform stuff
 platforms/android/CordovaLib/build/
 platforms/android/.gradle
+platforms/android/local.properties
+platforms/android/bin
+platforms/android/gen
+platforms/android/assets/www
 
 # IOS / Xcode
 build/*
