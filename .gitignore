@@ -21,6 +21,9 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+# Platform stuff
+platforms/android/CordovaLib/build/
+platforms/android/.gradle
 
 # IOS / Xcode
 build/*
