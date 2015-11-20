@@ -5,6 +5,12 @@ module.exports = [
         "id": "cordova-plugin-whitelist.whitelist",
         "pluginId": "cordova-plugin-whitelist",
         "runs": true
+    },
+    {
+        "file": "plugins/phonegap-nfc/www/phonegap-nfc.js",
+        "id": "phonegap-nfc.NFC",
+        "pluginId": "phonegap-nfc",
+        "runs": true
     }
 ];
 module.exports.metadata = 

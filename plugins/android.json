@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.lukehut.untilcerberus"
+        },
+        "phonegap-nfc": {
+            "PACKAGE_NAME": "com.lukehut.untilcerberus"
         }
     },
     "dependent_plugins": {}
