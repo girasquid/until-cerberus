@@ -5,7 +5,8 @@ lint:
 	jshint www/js/*.js
 
 logs:
-	adb logcat | grep "Web Console"
+	adb logcat
+	# for only JS console logs, pipe to `grep "Web Console"`
 
 clean:
 	cordova clean
